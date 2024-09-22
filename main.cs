@@ -139,7 +139,9 @@ class YilanOyunu
             }
         }
         return false;
+        
     }
+
 
     static void YemiYediktenSonra()
     {
